@@ -57,7 +57,7 @@ function HomePage() {
                       Book appointment
                       <ArrowRight className="w-5 h-5 ml-2" />
                     </Button>
-                    <CallButton size="lg" variant="outline" className="rounded-xl border-2 border-white text-black hover:bg-white hover:text-black font-bold uppercase tracking-wider" />
+                    <CallButton size="lg" variant="outline" className="rounded-xl border-2 border-white text-black hover:bg-white hover:bg-gray-200 font-bold uppercase tracking-wider" />
                   </div>
                 </motion.div>
               </div>
@@ -107,7 +107,7 @@ function HomePage() {
                     <Button size="lg" onClick={() => setIsAppointmentModalOpen(true)} className="rounded-xl bg-white text-black hover:bg-gray-200 font-bold uppercase tracking-wider transition-all duration-200 active:scale-[0.98]">
                       Book appointment
                     </Button>
-                    <WhatsAppButton size="lg" variant="outline" className="rounded-xl border-2 border-white text-black hover:bg-white hover:text-black font-bold uppercase tracking-wider" />
+                    <WhatsAppButton size="lg" variant="outline" className="rounded-xl border-2 border-white text-black hover:bg-gray-200 font-bold uppercase tracking-wider" />
                   </div>
                 </motion.div>
               </div>
