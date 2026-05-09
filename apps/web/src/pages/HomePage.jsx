@@ -29,7 +29,7 @@ function HomePage() {
   return (
     <>
       <Helmet>
-        <title>Brinda Clinic - Your trusted healthcare partner in Andaman</title>
+        <title>Brinda Clinic - Receal your best skin with expert dermatology care </title>
         <meta name="description" content="Quality healthcare services in Port Blair, Andaman. Offering general consultation, dermatology, and cosmetic treatments with experienced medical professionals." />
       </Helmet>
 
