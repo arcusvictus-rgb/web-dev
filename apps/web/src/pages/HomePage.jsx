@@ -29,7 +29,7 @@ function HomePage() {
   return (
     <>
       <Helmet>
-        <title>Brinda Clinic - Receal your best skin with expert dermatology care </title>
+        <title>Brinda Clinic - Reveal your best skin with expert dermatology care </title>
         <meta name="description" content="Quality healthcare services in Port Blair, Andaman. Offering general consultation, dermatology, and cosmetic treatments with experienced medical professionals." />
       </Helmet>
 
@@ -47,7 +47,7 @@ function HomePage() {
               <div className="max-w-3xl">
                 <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }} className="space-y-8">
                   <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-none uppercase tracking-tighter">
-                    Your trusted healthcare partner
+                    Reveal your best skin with expert dermatology care
                   </h1>
                   <p className="text-lg md:text-xl leading-relaxed text-gray-300 max-w-prose font-medium">
                     At Brinda Clinic, we are committed to providing exceptional medical care with compassion and professionalism. Located in the heart of Port Blair, we serve the community with dedication to your health and well-being.
